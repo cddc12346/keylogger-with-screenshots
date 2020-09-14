@@ -1,4 +1,6 @@
-# keylogger-with-screenshots
+# keylogger-with-screenshots\
+This executable is a consoleless executable.
+
 How to use:
 1) Paste the code into visual studio
 2) Compile with settings _CRT_SECURE_NO_WARNINGS 
