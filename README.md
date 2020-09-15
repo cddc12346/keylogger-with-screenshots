@@ -1,4 +1,4 @@
-# keylogger-with-screenshots\
+# keylogger-with-screenshots
 This executable is a consoleless executable.Creates a log file (log.txt) in the same folder as the executable. Takes screenshot and save in the images directory every 10 seconds. 
 
 How to use:
